@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
 import 'package:get/get.dart';
-import 'package:get_example/app/modules/counter/views/counter_view.dart';
 import 'package:get_example/app/routes/app_pages.dart';
 
 import '../controllers/home_controller.dart';
